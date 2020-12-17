@@ -9,12 +9,12 @@ circuits.
 <br>
 <br>
 
-1. [current-mirror](https://github.com/electronicsf/current-mirror)
-1. [low-pass-filter](https://github.com/electronicsf/low-pass-filter)
-1. [high-pass-filter](https://github.com/electronicsf/high-pass-filter)
-1. [band-pass-filter](https://github.com/electronicsf/band-pass-filter)
-1. [band-reject-filter](https://github.com/electronicsf/band-reject-filter)
-1. [push-pull-amplifier](https://github.com/electronicsf/push-pull-amplifier)
-1. [sawtooth-square-generator](https://github.com/electronicsf/sawtooth-square-generator)
-1. [binary-divider-2bit](https://github.com/electronicsf/binary-divider-2bit)
-1. [dc-voltage-stabilizer](https://github.com/electronicsf/dc-voltage-stabilizer)
+1. [Current Mirror](https://github.com/electronicsf/current-mirror)
+1. [Low-pass Filter](https://github.com/electronicsf/low-pass-filter)
+1. [High-pass Filter](https://github.com/electronicsf/high-pass-filter)
+1. [Band-pass Filter](https://github.com/electronicsf/band-pass-filter)
+1. [Band-reject Filter](https://github.com/electronicsf/band-reject-filter)
+1. [Push-pull Amplifier](https://github.com/electronicsf/push-pull-amplifier)
+1. [Sawtooth-square Generator](https://github.com/electronicsf/sawtooth-square-generator)
+1. [Binary divider 2bit](https://github.com/electronicsf/binary-divider-2bit)
+1. [DC Voltage stabilizer](https://github.com/electronicsf/dc-voltage-stabilizer)
