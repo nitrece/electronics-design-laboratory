@@ -18,3 +18,4 @@ circuits.
 1. [Sawtooth-square Generator](https://github.com/electronicsf/sawtooth-square-generator)
 1. [Binary divider 2bit](https://github.com/electronicsf/binary-divider-2bit)
 1. [DC Voltage stabilizer](https://github.com/electronicsf/dc-voltage-stabilizer)
+![](https://ga-beacon.deno.dev/G-ERJXRWVLBT:BGFjXiiDQ5-gqJoAeoZGqg/github.com/nitrece/electronics-design-laboratory)
